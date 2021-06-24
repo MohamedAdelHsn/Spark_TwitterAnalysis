@@ -1,5 +1,8 @@
 #Project1 Spark_TwitterAnalysis
-Spark Streaming service will pull tweets and apply Sentiment Analysis on them using stanfordNlpCore lib 
+Spark Streaming service will pull tweets and apply Sentiment Analysis on them using stanfordNlpCore lib  <br />  <br />
+
+--------------------------------------------------------------------------------------------------------------------------
+
 
 #Project2 Real-Time-Twitter_Trends
 Here's a real-time dashboard that say What happens around the world every second ? by Tracking top twitter trends and hashtags using Big data Technology <br />  <br />
